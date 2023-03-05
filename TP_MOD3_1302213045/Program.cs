@@ -16,7 +16,7 @@ namespace TP_MOD3_1302213045
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Submit1());
         }
     }
 }
